@@ -6,3 +6,20 @@ Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el 
 Incluid debajo el nombre de los miembros del grupo:
 Marcos Zamorano Lasso
 Alba Abril Luengo
+
+# Guia de como pueden comenzar los usuarios a interactuar con el proyecto
+
+
+# Filtro por Epics, US y Tasks en la columna de New Issues 
+
+# Tareas de 1er Release en el Sprint Backlog 
+
+# Tareas de 1er Release en en progreso en diferentes columnas
+
+# Cierre de 1er Release
+
+# Comienzo de la 2da Release
+
+# Tareas de la 2da Release en progreso y filtradas por algún topic
+
+# Imagen de conversación en dos tareas
