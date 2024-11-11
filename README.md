@@ -9,6 +9,9 @@ Alba Abril Luengo
 
 # Guia de como pueden comenzar los usuarios a interactuar con el proyecto
 
+![image](https://github.com/user-attachments/assets/a00435b8-9392-41ef-bed6-e13a4af27a15)
+Hemos habilitado la pestaña de Issues para que todos los colaboradores del proyecto puedan crear distintas tareas, épicas o actividades en el repositorio. Por eso es importante habilitar esta pestaña.
+
 
 # Filtro por Epics, US y Tasks en la columna de New Issues 
 
