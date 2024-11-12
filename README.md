@@ -30,6 +30,9 @@ Finalmente, aplicando en label el filtro y buscando por: Type:Task, sacaremos ú
 
 
 # Tareas de 1er Release en el Sprint Backlog 
+En esta imagen podemos ver que estan puestos todas las tareas del realase 1 estan puestas en apartado de Sprint Backlog
+![image](https://github.com/user-attachments/assets/387e8f8f-9d37-49d6-abea-b155aeaea33b)
+
 
 # Tareas de 1er Release en en progreso en diferentes columnas
 
