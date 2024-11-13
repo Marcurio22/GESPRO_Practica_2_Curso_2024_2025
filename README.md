@@ -36,11 +36,13 @@ Finalmente, aplicando en label el filtro y buscando por: Type:Task, sacaremos ú
 
 
 # Tareas de 1er Release en el Sprint Backlog 
+El Sprint Backlog es una lista con todo el trabajo que van a tener que relizar los dearrolladores durante el sprint, para el realease 1.
 En esta imagen podemos ver que estan puestos todas las tareas del realase 1 estan puestas en apartado de Sprint Backlog
 ![image](https://github.com/user-attachments/assets/387e8f8f-9d37-49d6-abea-b155aeaea33b)
 
-
 # Tareas de 1er Release en en progreso en diferentes columnas
+![image](https://github.com/user-attachments/assets/307893a5-cdf9-43c8-996b-b06f8f231c1f)
+
 
 # Cierre de 1er Release
 
