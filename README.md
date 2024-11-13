@@ -52,7 +52,18 @@ En esta imagen podemos apreciar como las tareas de la realase 1 estan situadas e
 Si una tarea esta en la columna de In Progress significa que en esa tarea esta trabajando el equipo, la siguiente columna, Review/QA, hace referencia a las tareas que estan siendo revisadas y se estan probando, y por ultimo las tareas que estan en la columna de Done hacen referencia a todas las tareas que ya han sido probados y que ya estan acabados.
 
 # Cierre de 1er Release
+Para poder cerrar la 1ra relase tenemos que cerrar primero todas las tareas que tiene, para ello arrastramos todas las tareas al apartado de Close, esto lo podemos observar en la siguiente imagen.
 
+![image](https://github.com/user-attachments/assets/a79e463b-8c35-4045-b041-23c37aa51fd4)
+
+Cuando ya esten cerradas todas las tareas vamos al apartado donde encontramos las milestones, para encontrarlas tenemos que ir al aprtado de Issus y despues al de Milestones.
+una vez que tenemos las tres relase, selecionamos el boton de Close de la relase 1 y asi quedaria cerrada.
+
+![image](https://github.com/user-attachments/assets/5c0231e4-a982-486e-91b4-18be5c5263d9)
+
+Como podemos observar en la siguiente imagen, nos dice que tenmos 2 abiertas y una cerrada, entonces asi comprobamos que hemos cerrado correctamente la relase 1.
+
+![image](https://github.com/user-attachments/assets/e9424e67-3eba-45af-a7b0-5ce857a4f0d5)
 
 # Comienzo de la 2da Release
 
