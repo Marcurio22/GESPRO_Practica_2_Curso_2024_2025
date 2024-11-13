@@ -38,13 +38,21 @@ Finalmente, aplicando en label el filtro y buscando por: Type:Task, sacaremos ú
 # Tareas de 1er Release en el Sprint Backlog 
 El Sprint Backlog es una lista con todo el trabajo que van a tener que relizar los dearrolladores durante el sprint, para el realease 1.
 En esta imagen podemos ver que estan puestos todas las tareas del realase 1 estan puestas en apartado de Sprint Backlog
+
 ![image](https://github.com/user-attachments/assets/387e8f8f-9d37-49d6-abea-b155aeaea33b)
 
+Para poder poner las tareas en el Sprint Backlog hay que arrastrarlas, en nuestro caso estaban situadas en la columna de new issues como hemos podido observar en las imagenes de otros aprtados anteriores y las hemos movido hasta la columna de Sprint Backlog
+
 # Tareas de 1er Release en en progreso en diferentes columnas
+Vamos a simular que las tareas se han ido empezando y estan en progreso en distintas fases, para ello vamos a colocar distintas actividades en las columnas de: In Progress, Review/QA y Done.
+En esta imagen podemos apreciar como las tareas de la realase 1 estan situadas en estas columnas que hemos comentado:
+
 ![image](https://github.com/user-attachments/assets/307893a5-cdf9-43c8-996b-b06f8f231c1f)
 
+Si una tarea esta en la columna de In Progress significa que en esa tarea esta trabajando el equipo, la siguiente columna, Review/QA, hace referencia a las tareas que estan siendo revisadas y se estan probando, y por ultimo las tareas que estan en la columna de Done hacen referencia a todas las tareas que ya han sido probados y que ya estan acabados.
 
 # Cierre de 1er Release
+
 
 # Comienzo de la 2da Release
 
