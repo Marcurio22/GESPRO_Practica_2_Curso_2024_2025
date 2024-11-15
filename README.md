@@ -51,7 +51,7 @@ Si una tarea esta en la columna de In Progress significa que en esa tarea esta t
 
 # Cierre de 1er Release
 Para poder cerrar la 1ra relase tenemos que cerrar primero todas las tareas que tiene, para ello arrastramos todas las tareas al apartado de Close, esto lo podemos observar en la siguiente imagen.
-![image](https://github.com/user-attachments/assets/a79e463b-8c35-4045-b041-23c37aa51fd4
+![image](https://github.com/user-attachments/assets/a79e463b-8c35-4045-b041-23c37aa51fd4)
 
 Cuando ya esten cerradas todas las tareas vamos al apartado donde encontramos las milestones, para encontrarlas tenemos que ir al aprtado de Issus y despues al de Milestones.
 una vez que tenemos las tres relase, selecionamos el boton de Close de la relase 1 y asi quedaria cerrada.
@@ -65,3 +65,11 @@ Como podemos observar en la siguiente imagen, nos dice que tenmos 2 abiertas y u
 # Tareas de la 2da Release en progreso y filtradas por algún topic
 
 # Imagen de conversación en dos tareas
+
+![image](https://github.com/user-attachments/assets/925f8483-739e-4807-9ccc-6d2f7bd4881b)
+Aquí se puede ver una conversación en la tarea de see deposit edition analytics de la release 2, donde se pregunta si se puede tener acceso al historial de depósitos del banco y se contesta que, efectivamente, esto es posible.
+
+![image](https://github.com/user-attachments/assets/5c0e1a8a-0d8d-4d65-8730-e60d8cd526fe)
+
+
+
