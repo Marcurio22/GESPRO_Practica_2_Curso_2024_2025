@@ -86,6 +86,7 @@ Ya podemos cerrar de forma definitiva la release 2, si volvemos a milestones vem
 Aquí se puede ver una conversación en la tarea de see deposit edition analytics de la release 2, donde se pregunta si se puede tener acceso al historial de depósitos del banco y se contesta que, efectivamente, esto es posible.
 
 ![image](https://github.com/user-attachments/assets/5c0e1a8a-0d8d-4d65-8730-e60d8cd526fe)
+En esta segunda conversación, podemos ver que en la tarea: Customize notifications de la release 3 se ha hecho una pregunta sobre una posible funcionalidad a implementar de la misma. Se pregunta si se pueden configurar alertas para cantidades específicas de dinero o actividades inusuales y al usuario se le contesta con una respuesta afirmativa, indicando que se añadirá una funcionalidad con la que los usuarios puedan configurar alertas para cantidades mayores al importe deseado y para movimientos sospechosos.
 
 
 
