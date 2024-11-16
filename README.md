@@ -69,8 +69,8 @@ Una vez allí las desplazaremos las tareas para simular que están en progreso, 
 
 Ahora vamos a cerrar las tareas de la release 2 desplazandolas al bloque Closed, para poder finalizar la release 2.
 ![image](https://github.com/user-attachments/assets/5fbe4f5c-24eb-4b58-a99b-23db593a4fe4)
+Una vez hecho esto, si vamos al apartado de milestones veremos que todas las tareas están cerradas y que hemos completado la release 2 al 100%.
 
-Una vez hecho esto, si vamos al apartado de milestones veremos que todas las tareas están cerradas y que hemos completado l arelease 2 al 100%.
 ![image](https://github.com/user-attachments/assets/81db43d8-7cf6-4c9c-abb2-268837834254)
 
 Ya podemos cerrar de forma definitiva la release 2, si volvemos a milestones vemos que ahora tenemos 1 abierta y 2 cerradas.
