@@ -63,9 +63,11 @@ Para comenzar la segunda release vamos a arrastrar todas las tareas de la releas
 
 
 # Tareas de la 2da Release en progreso y filtradas por algún topic
-Una vez allí las desplazaremos las tareas para simular que están en progreso, revisadas o finalizadas. En la segunda imagen se puede apreciar que podemos filtrar las tareas, por ejemplo, con etiquetas referidas a un Useer Story.
-![image](https://github.com/user-attachments/assets/c18f9f54-71f8-43dd-aecc-c3fea454b492)
-![image](https://github.com/user-attachments/assets/59b4b164-33e8-4cd2-a5d4-763161daae04)
+Una vez allí las desplazaremos las tareas para simular que están en progreso, revisadas o finalizadas. En la segunda imagen se puede apreciar que podemos filtrar las tareas, por ejemplo, podemos buscar las que contengan el topic setup.
+![image](https://github.com/user-attachments/assets/29839c70-18c2-4953-a32b-aafabf654850)
+
+![image](https://github.com/user-attachments/assets/c82272ac-9d5f-4547-8d43-a6e042c4ca72)
+
 
 Ahora vamos a cerrar las tareas de la release 2 desplazandolas al bloque Closed, para poder finalizar la release 2.
 ![image](https://github.com/user-attachments/assets/5fbe4f5c-24eb-4b58-a99b-23db593a4fe4)
