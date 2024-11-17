@@ -8,7 +8,7 @@ Marcos Zamorano Lasso
 Alba Abril Luengo
 María Molina Goyena
 
-# Guía de como pueden comenzar los usuarios a interactuar con el proyecto
+## Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto
 ![image](https://github.com/user-attachments/assets/8ea289da-ecb2-49a4-bae4-2e06e018020b)
 Fork sobre el que se trabajará.
 
@@ -18,7 +18,7 @@ Hemos habilitado la pestaña de Issues para que todos los colaboradores del proy
 ![image](https://github.com/user-attachments/assets/d56f5d4a-16bb-438f-8139-58893e405fce)
 En esta imagen se pueden ver todos los colaboradores del proyecto, así como el dueño del repositorio que funcionará como propietario.
 
-# Filtro por Epics, US y Tasks en la columna de New Issues 
+## Filtro por Epics, US y Tasks en la columna de New Issues 
 ![image](https://github.com/user-attachments/assets/74c28daa-9b03-49ae-ba0b-f7864efa0200)
 En esta imagen se ha aplicado el filtro para ver todas las épicas del proyecto, simplemente hay que clicar en el botón de labels y buscar por: Type:Epic.
 
@@ -30,21 +30,21 @@ Finalmente, aplicando en label el filtro y buscando por: Type:Task, sacaremos ú
 
 
 
-# Tareas de 1er Release en el Sprint Backlog 
+## Tareas de 1er Release en el Sprint Backlog 
 El Sprint Backlog es una lista con todo el trabajo que van a tener que relizar los dearrolladores durante el sprint, para el realease 1.
 En esta imagen podemos ver que estan puestos todas las tareas del realase 1 estan puestas en apartado de Sprint Backlog
 ![image](https://github.com/user-attachments/assets/387e8f8f-9d37-49d6-abea-b155aeaea33b)
 
 Para poder poner las tareas en el Sprint Backlog hay que arrastrarlas, en nuestro caso estaban situadas en la columna de new issues como hemos podido observar en las imagenes de otros aprtados anteriores y las hemos movido hasta la columna de Sprint Backlog
 
-# Tareas de 1er Release en en progreso en diferentes columnas
+## Tareas de 1er Release en en progreso en diferentes columnas
 Vamos a simular que las tareas se han ido empezando y estan en progreso en distintas fases, para ello vamos a colocar distintas actividades en las columnas de: In Progress, Review/QA y Done.
 En esta imagen podemos apreciar como las tareas de la realase 1 estan situadas en estas columnas que hemos comentado:
 ![image](https://github.com/user-attachments/assets/307893a5-cdf9-43c8-996b-b06f8f231c1f)
 
 Si una tarea esta en la columna de In Progress significa que en esa tarea esta trabajando el equipo, la siguiente columna, Review/QA, hace referencia a las tareas que estan siendo revisadas y se estan probando, y por ultimo las tareas que estan en la columna de Done hacen referencia a todas las tareas que ya han sido probados y que ya estan acabados.
 
-# Cierre de 1er Release
+## Cierre de 1er Release
 Para poder cerrar la 1ra relase tenemos que cerrar primero todas las tareas que tiene, para ello arrastramos todas las tareas al apartado de Close, esto lo podemos observar en la siguiente imagen.
 ![image](https://github.com/user-attachments/assets/a79e463b-8c35-4045-b041-23c37aa51fd4)
 
@@ -57,12 +57,12 @@ una vez que tenemos las tres relase, selecionamos el boton de Close de la relase
 Como podemos observar en la siguiente imagen, nos dice que tenmos 2 abiertas y una cerrada, entonces asi comprobamos que hemos cerrado correctamente la relase 1.
 ![image](https://github.com/user-attachments/assets/e9424e67-3eba-45af-a7b0-5ce857a4f0d5)
 
-# Comienzo de la 2da Release
+## Comienzo de la 2da Release
 Para comenzar la segunda release vamos a arrastrar todas las tareas de la release 2 al Sprint Backlog desde New Issues. 
 ![image](https://github.com/user-attachments/assets/1b9caa4f-9be3-4fb5-8078-b798de671e65)
 
 
-# Tareas de la 2da Release en progreso y filtradas por algún topic
+## Tareas de la 2da Release en progreso y filtradas por algún topic
 Una vez allí las desplazaremos las tareas para simular que están en progreso, revisadas o finalizadas. En la segunda imagen se puede apreciar que podemos filtrar las tareas, por ejemplo, podemos buscar las que contengan el topic setup.
 ![image](https://github.com/user-attachments/assets/29839c70-18c2-4953-a32b-aafabf654850)
 
@@ -80,12 +80,14 @@ Ya podemos cerrar de forma definitiva la release 2, si volvemos a milestones vem
 ![image](https://github.com/user-attachments/assets/cf81bfd1-0032-451a-87b2-65bb26c6c23d)
 
 
-# Imagen de conversación en dos tareas
+## Imagen de conversación en dos tareas
 
 ![image](https://github.com/user-attachments/assets/925f8483-739e-4807-9ccc-6d2f7bd4881b)
+
 Aquí se puede ver una conversación en la tarea de see deposit edition analytics de la release 2, donde se pregunta si se puede tener acceso al historial de depósitos del banco y se contesta que, efectivamente, esto es posible.
 
 ![image](https://github.com/user-attachments/assets/5c0e1a8a-0d8d-4d65-8730-e60d8cd526fe)
+
 En esta segunda conversación, podemos ver que en la tarea: Customize notifications de la release 3 se ha hecho una pregunta sobre una posible funcionalidad a implementar de la misma. Se pregunta si se pueden configurar alertas para cantidades específicas de dinero o actividades inusuales y al usuario se le contesta con una respuesta afirmativa, indicando que se añadirá una funcionalidad con la que los usuarios puedan configurar alertas para cantidades mayores al importe deseado y para movimientos sospechosos.
 
 
